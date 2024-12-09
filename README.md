@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mittapally-manohar/DSA/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0162-find-peak-element](https://github.com/mittapally-manohar/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/mittapally-manohar/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |

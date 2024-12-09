@@ -3,8 +3,7 @@ class Solution {
        int maxSoFar = Integer.MIN_VALUE;
        int maxEndingHere = 0;
        for (int num : nums) {
-            maxEndingHere = Math.max(num + maxEndingHere, num);
-            maxSoFar = Math.max(maxEndingHere, maxSoFar);
+            maxSoFar = Math.max(maxEndingHere = Math.max(num + maxEndingHere, num), maxSoFar);
        }
        return maxSoFar;
     }

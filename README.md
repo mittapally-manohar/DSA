@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mittapally-manohar/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

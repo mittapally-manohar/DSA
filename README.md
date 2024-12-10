@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mittapally-manohar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mittapally-manohar/DSA/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->

@@ -3,20 +3,30 @@ class Solution {
         if (s.length() == 0 || s == null || s.charAt(0) == '0') {
             return 0;
         }
-        int oldState = 1;
-        int newState = 1;
-        for(int i = 1; i < s.length(); i++) {
-            int count = 0;
-            if (s.charAt(i) != '0') {
-                count = newState;
-            } 
-            int twoDigit = Integer.parseInt(s.substring(i-1, i+1)); 
-            if (twoDigit >= 10 && twoDigit <= 26) {
-                count += oldState;
-            }
-            oldState = newState;
-            newState = count;
+        int[] memo = new int[s.length()];
+        Arrays.fill(memo, -1);
+        return decode(0, s, memo);
+    }
+
+    public int decode(int i, String s, int[] memo) {
+        if (i == s.length()) {
+            return 1;
         }
-        return newState;
+        if (s.charAt(i) == '0') {
+            return 0;
+        }
+        if (memo[i] != -1) {
+            return memo[i];
+        }
+        int ways = decode(i + 1, s, memo);
+
+        if (i < s.length()-1) {
+            int twoDigit = Integer.parseInt(s.substring(i, i+2));
+            if (twoDigit >= 10 && twoDigit <= 26) {
+                ways += decode(i+2, s, memo);
+            }
+        }
+        memo[i] = ways;
+        return ways;
     }
 }

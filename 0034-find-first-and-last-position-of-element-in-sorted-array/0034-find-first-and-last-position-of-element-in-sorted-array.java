@@ -1,8 +1,8 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int l = find(nums, target, true);
-        int r = find(nums, target, false);
-        return new int[] { l , r  };
+       int l = find(nums, target, true);
+       int r = find(nums, target, false);
+       return new int[]{l, r};
     }
 
     public int find(int[] nums, int target, boolean isLeft) {

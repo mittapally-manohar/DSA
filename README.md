@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mittapally-manohar/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mittapally-manohar/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
+| [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mittapally-manohar/DSA/tree/master/0076-minimum-window-substring) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -4,14 +4,22 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Integer> sCount = new HashMap<>();
-        HashMap<Character, Integer> tCount = new HashMap<>();
+        // Array to count character frequencies
+        int[] count = new int[26];
 
+        // Increment for `s` and decrement for `t`
         for (int i = 0; i < s.length(); i++) {
-            sCount.put(s.charAt(i), 1 + sCount.getOrDefault(s.charAt(i), 0));
-            tCount.put(t.charAt(i), 1 + tCount.getOrDefault(t.charAt(i), 0));
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
         }
 
-        return sCount.equals(tCount);  
+        // Check if all counts are zero
+        for (int c : count) {
+            if (c != 0) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }

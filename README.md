@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mittapally-manohar/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/mittapally-manohar/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/mittapally-manohar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mittapally-manohar/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/mittapally-manohar/DSA/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1206-corporate-flight-bookings](https://github.com/mittapally-manohar/DSA/tree/master/1206-corporate-flight-bookings) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1783-ways-to-make-a-fair-array](https://github.com/mittapally-manohar/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mittapally-manohar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mittapally-manohar/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

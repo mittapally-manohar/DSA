@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1206-corporate-flight-bookings](https://github.com/mittapally-manohar/DSA/tree/master/1206-corporate-flight-bookings) |
+| [1395-minimum-time-visiting-all-points](https://github.com/mittapally-manohar/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1783-ways-to-make-a-fair-array](https://github.com/mittapally-manohar/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 ## Two Pointers
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/mittapally-manohar/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/mittapally-manohar/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->

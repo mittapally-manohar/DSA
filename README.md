@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mittapally-manohar/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/mittapally-manohar/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mittapally-manohar/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mittapally-manohar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
@@ -119,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0054-spiral-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

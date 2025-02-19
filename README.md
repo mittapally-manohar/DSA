@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
+| [1019-squares-of-a-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1206-corporate-flight-bookings](https://github.com/mittapally-manohar/DSA/tree/master/1206-corporate-flight-bookings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mittapally-manohar/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mittapally-manohar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mittapally-manohar/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |

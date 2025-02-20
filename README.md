@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mittapally-manohar/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mittapally-manohar/DSA/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/mittapally-manohar/DSA/tree/master/1635-number-of-good-pairs) |
 | [1783-ways-to-make-a-fair-array](https://github.com/mittapally-manohar/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 | [1791-richest-customer-wealth](https://github.com/mittapally-manohar/DSA/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/mittapally-manohar/DSA/tree/master/2048-build-array-from-permutation) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/mittapally-manohar/DSA/tree/master/1635-number-of-good-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mittapally-manohar/DSA/tree/master/1395-minimum-time-visiting-all-points) |
+| [1635-number-of-good-pairs](https://github.com/mittapally-manohar/DSA/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/mittapally-manohar/DSA/tree/master/1635-number-of-good-pairs) |
 ## Geometry
 |  |
 | ------- |

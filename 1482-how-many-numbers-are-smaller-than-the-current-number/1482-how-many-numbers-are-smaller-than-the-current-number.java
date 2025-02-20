@@ -1,18 +1,20 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
-       int[] res = new int[nums.length];
-       int[] copy = (int[])nums.clone();
-       int[] count = new int[101];
-       Arrays.fill(count,-1);
-       Arrays.sort(nums);
-       for(int i = 0; i < nums.length; i++) {
-         if(count[nums[i]]==-1) {
-            count[nums[i]] = i;
-         }
-       }
-       for(int i = 0; i < copy.length; i++) {
-        res[i] = count[copy[i]];
-       }
-       return res;
+        int[] res = new int[nums.length];
+        int[] count = new int[101];
+        for (int i = 0; i < nums.length; i++) {
+            count[nums[i]]++;
+        }
+        for (int i = 1; i < 101; i++) {
+            count[i] = count[i] + count[i - 1];
+        }
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
+                res[i] = 0;
+            } else {
+                res[i] = count[nums[i] - 1];
+            }
+        }
+        return res;
     }
 }

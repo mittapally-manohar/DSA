@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1783-ways-to-make-a-fair-array](https://github.com/mittapally-manohar/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 | [2048-build-array-from-permutation](https://github.com/mittapally-manohar/DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/mittapally-manohar/DSA/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/mittapally-manohar/DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/mittapally-manohar/DSA/tree/master/2058-concatenation-of-array) |
 ## Union Find
 |  |
 | ------- |

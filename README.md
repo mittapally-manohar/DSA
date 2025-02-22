@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/mittapally-manohar/DSA/tree/master/1635-number-of-good-pairs) |
 | [1783-ways-to-make-a-fair-array](https://github.com/mittapally-manohar/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 | [1791-richest-customer-wealth](https://github.com/mittapally-manohar/DSA/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/mittapally-manohar/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/mittapally-manohar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mittapally-manohar/DSA/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/mittapally-manohar/DSA/tree/master/0242-valid-anagram) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
+| [1899-count-items-matching-a-rule](https://github.com/mittapally-manohar/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mittapally-manohar/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming

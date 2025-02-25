@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1206-corporate-flight-bookings](https://github.com/mittapally-manohar/DSA/tree/master/1206-corporate-flight-bookings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mittapally-manohar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mittapally-manohar/DSA/tree/master/0198-house-robber) |
+| [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->

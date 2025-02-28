@@ -3,9 +3,10 @@ class Solution {
       int xorFull = 0, xorArr = 0;
       for(int i=0;i<=nums.length;i++){
         xorFull ^= i;
-        if(i==nums.length)break;
-        xorFull ^=nums[i];
       }
-      return xorFull;
+      for(int i =0; i< nums.length; i++) {
+        xorArr ^= nums[i];
+      }
+      return xorFull ^ xorArr;
     }
 }

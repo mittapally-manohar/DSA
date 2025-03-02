@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/mittapally-manohar/DSA/tree/master/0242-valid-anagram) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
+| [1250-longest-common-subsequence](https://github.com/mittapally-manohar/DSA/tree/master/1250-longest-common-subsequence) |
 | [1899-count-items-matching-a-rule](https://github.com/mittapally-manohar/DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mittapally-manohar/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mittapally-manohar/DSA/tree/master/0198-house-robber) |
 | [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/mittapally-manohar/DSA/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/mittapally-manohar/DSA/tree/master/1250-longest-common-subsequence) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mittapally-manohar/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |

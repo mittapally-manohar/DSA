@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/mittapally-manohar/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mittapally-manohar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mittapally-manohar/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mittapally-manohar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/mittapally-manohar/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mittapally-manohar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mittapally-manohar/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mittapally-manohar/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mittapally-manohar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mittapally-manohar/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mittapally-manohar/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

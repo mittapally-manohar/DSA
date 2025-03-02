@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/mittapally-manohar/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/mittapally-manohar/DSA/tree/master/1036-rotting-oranges) |
 | [1206-corporate-flight-bookings](https://github.com/mittapally-manohar/DSA/tree/master/1206-corporate-flight-bookings) |
 | [1306-minimum-absolute-difference](https://github.com/mittapally-manohar/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/mittapally-manohar/DSA/tree/master/1395-minimum-time-visiting-all-points) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/mittapally-manohar/DSA/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/mittapally-manohar/DSA/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/mittapally-manohar/DSA/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |

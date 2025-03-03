@@ -6,10 +6,9 @@ class Solution {
             if(i-count > k) {
                 set.remove(nums[count++]);
             }
-            if(set.contains(nums[i])){
+            if(!set.add(nums[i])){
                 return true;
             }
-            set.add(nums[i]);
         }
         return false;
     }

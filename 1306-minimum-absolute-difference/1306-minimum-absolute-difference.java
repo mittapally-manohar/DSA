@@ -8,8 +8,9 @@ class Solution {
            if (minDiff < min) {
             min = minDiff;
             res.clear();
+             res.add(Arrays.asList(arr[i-1],arr[i]));
            }
-           if (minDiff == min) {
+           else if (minDiff == min) {
             res.add(Arrays.asList(arr[i-1],arr[i]));
            }
         }

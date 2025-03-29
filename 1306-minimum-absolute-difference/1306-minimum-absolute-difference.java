@@ -9,8 +9,9 @@ class Solution {
             if (diff < min) {
                 res.clear();
                 min = diff;
+                res.add(Arrays.asList(arr[i-1],arr[i]));
             }
-            if (min == diff) {
+            else if (min == diff) {
                 res.add(Arrays.asList(arr[i-1],arr[i]));
             }
          }

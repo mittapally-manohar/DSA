@@ -6,10 +6,9 @@ class Solution {
             if (i > k) {
                 seen.remove(nums[i-k-1]);
             }
-            if (seen.contains(nums[i])){
+            if (!seen.add(nums[i])){
                 return true;
             }
-            seen.add(nums[i]);
         }
         return false;
     }

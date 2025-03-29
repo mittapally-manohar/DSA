@@ -5,7 +5,7 @@ class Solution {
          int min = Integer.MAX_VALUE;
          List<List<Integer>> res = new ArrayList<>();
          for (int i = 1; i < n; i++){
-            int diff = Math.abs(arr[i] - arr[i-1]);
+            int diff = arr[i] - arr[i-1];
             if (diff < min) {
                 res.clear();
                 min = diff;

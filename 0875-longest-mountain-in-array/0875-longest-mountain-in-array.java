@@ -5,10 +5,14 @@ class Solution {
         int mountain = 0;
         for (int i = 1; i < n - 1; i++) {
             int up = 0, down = 0;
-            for (int j = i-1; j >= 0 && arr[j+1] > arr[j]; j--,up++)
-            {}
-            for (int j = i+1; j <= n-1 && arr[j-1] > arr[j]; j++, down++)
-            {}
+            for (int j = i-1; j >= 0 && arr[j+1] > arr[j]; j--)
+            {
+                up++;
+            }
+            for (int j = i+1; j <= n-1 && arr[j-1] > arr[j]; j++)
+            {
+                 down++;
+            }
             if (up > 0 && down > 0) {
                 mountain = Math.max(mountain, up+down+1);
             }

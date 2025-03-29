@@ -1,19 +1,19 @@
 class Solution {
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
-        List<List<Integer>> res = new ArrayList<>();
-        int min = Integer.MAX_VALUE; 
-        Arrays.sort(arr);
-        for(int i = 1; i < arr.length; i++) {
-           int minDiff = arr[i] - arr[i-1];
-           if (minDiff < min) {
-            min = minDiff;
-            res.clear();
-             res.add(Arrays.asList(arr[i-1],arr[i]));
-           }
-           else if (minDiff == min) {
-            res.add(Arrays.asList(arr[i-1],arr[i]));
-           }
-        }
-        return res;
+         Arrays.sort(arr);
+         int n = arr.length;
+         int min = Integer.MAX_VALUE;
+         List<List<Integer>> res = new ArrayList<>();
+         for (int i = 1; i < n; i++){
+            int diff = Math.abs(arr[i] - arr[i-1]);
+            if (diff < min) {
+                res.clear();
+                min = diff;
+            }
+            if (min == diff) {
+                res.add(Arrays.asList(arr[i-1],arr[i]));
+            }
+         }
+         return res;
     }
 }

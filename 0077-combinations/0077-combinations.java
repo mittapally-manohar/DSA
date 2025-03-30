@@ -10,13 +10,10 @@ class Solution {
             res.add(new ArrayList<>(current));
             return;
         }
-        if (index > n) {
-            return;
+         for (int i = index; i <= n; i++) {
+            current.add(i);
+            backtrack(n, i+1, k, current, res);
+            current.remove(current.size() - 1);
         }
-        current.add(index);
-        backtrack(n, index+1, k, current, res);
-
-        current.remove(current.size()-1);
-        backtrack(n, index+1, k, current, res);
     }
 }

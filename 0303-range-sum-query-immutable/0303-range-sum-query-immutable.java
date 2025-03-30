@@ -1,16 +1,22 @@
 class NumArray {
-    int[] arr ;
+    int[] sum ;
 
     public NumArray(int[] nums) {
-        arr = nums.clone();
+        int n = nums.length;
+        sum = nums.clone();
+        for (int i = 1; i < n; i++) {
+            sum[i] = sum[i-1]+sum[i];
+            System.out.print(sum[i]+" ");
+        }
     }
     
     public int sumRange(int left, int right) {
-        int sum = arr[left];
-        for (int i = left+1; i <=right ;i++) {
-            sum += arr[i];
+        int totalSum = 0;
+        if (left > 0) {
+            totalSum -= sum[left-1];
         }
-        return sum;
+        totalSum += sum[right];
+        return totalSum;
     }
 }
 

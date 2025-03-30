@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mittapally-manohar/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mittapally-manohar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/mittapally-manohar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/mittapally-manohar/DSA/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mittapally-manohar/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mittapally-manohar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mittapally-manohar/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/mittapally-manohar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1206-corporate-flight-bookings](https://github.com/mittapally-manohar/DSA/tree/master/1206-corporate-flight-bookings) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/mittapally-manohar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |

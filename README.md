@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mittapally-manohar/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/mittapally-manohar/DSA/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/mittapally-manohar/DSA/tree/master/0242-valid-anagram) |
+| [0800-letter-case-permutation](https://github.com/mittapally-manohar/DSA/tree/master/0800-letter-case-permutation) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
 | [1250-longest-common-subsequence](https://github.com/mittapally-manohar/DSA/tree/master/1250-longest-common-subsequence) |
 | [1899-count-items-matching-a-rule](https://github.com/mittapally-manohar/DSA/tree/master/1899-count-items-matching-a-rule) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mittapally-manohar/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mittapally-manohar/DSA/tree/master/0338-counting-bits) |
+| [0800-letter-case-permutation](https://github.com/mittapally-manohar/DSA/tree/master/0800-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/mittapally-manohar/DSA/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->

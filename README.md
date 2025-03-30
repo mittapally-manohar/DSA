@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mittapally-manohar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mittapally-manohar/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mittapally-manohar/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mittapally-manohar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mittapally-manohar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mittapally-manohar/DSA/tree/master/0136-single-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mittapally-manohar/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mittapally-manohar/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mittapally-manohar/DSA/tree/master/0338-counting-bits) |
@@ -276,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mittapally-manohar/DSA/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/mittapally-manohar/DSA/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->

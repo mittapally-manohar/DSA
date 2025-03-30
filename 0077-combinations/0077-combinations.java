@@ -1,19 +1,25 @@
 class Solution {
-    public List<List<Integer>> combine(int n, int k) {
+     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res = new ArrayList<>();
-        backtrack(n, 1, k, new ArrayList<Integer>(), res);
+        backtrack(n, k, 1, new ArrayList<>(), res);
         return res;
     }
 
-    public void backtrack(int n, int index, int k, List<Integer> current, List<List<Integer>> res) {
-        if (k == current.size()) {
+    public void backtrack(int n, int k, int index, List<Integer> current, List<List<Integer>> res) {
+        if (current.size() == k) {
             res.add(new ArrayList<>(current));
             return;
         }
-         for (int i = index; i <= n; i++) {
-            current.add(i);
-            backtrack(n, i+1, k, current, res);
-            current.remove(current.size() - 1);
+        if (index > n) {
+            return;
         }
+
+        // Include the current number
+        current.add(index);
+        backtrack(n, k, index + 1, current, res);
+        current.remove(current.size() - 1);
+
+        // Exclude the current number and move to the next
+        backtrack(n, k, index + 1, current, res);
     }
 }

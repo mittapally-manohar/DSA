@@ -12,10 +12,11 @@ class NumArray {
     
     public int sumRange(int left, int right) {
         int totalSum = 0;
-        if (left > 0) {
-            totalSum -= sum[left-1];
+        if (left == 0) {
+            totalSum = sum[right];
+        } else {
+        totalSum = sum[right] - sum[left-1];
         }
-        totalSum += sum[right];
         return totalSum;
     }
 }

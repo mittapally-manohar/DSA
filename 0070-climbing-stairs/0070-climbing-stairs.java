@@ -5,10 +5,8 @@ class Solution {
     }
 
     public int helper(int n, int[] memo) {
-        if (n < 3) return n;
-        if(memo[n] != 0) {
-            return memo[n];
-        }
+        if (n <= 1) return 1;
+        if (memo[n] != 0) return memo[n];
         memo[n] = helper(n-1,memo) + helper(n-2,memo);
         return memo[n];
     }

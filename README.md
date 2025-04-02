@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mittapally-manohar/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mittapally-manohar/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mittapally-manohar/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/mittapally-manohar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mittapally-manohar/DSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/mittapally-manohar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/mittapally-manohar/DSA/tree/master/0322-coin-change) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mittapally-manohar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
 ## Sliding Window
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mittapally-manohar/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mittapally-manohar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mittapally-manohar/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/mittapally-manohar/DSA/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
 | ------- |
@@ -297,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/mittapally-manohar/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mittapally-manohar/DSA/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/mittapally-manohar/DSA/tree/master/0800-letter-case-permutation) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mittapally-manohar/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mittapally-manohar/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

@@ -1,8 +1,14 @@
 class Solution {
+    private static final Set<String> OPERATORS = Set.of("+", "-", "*", "/");
+
+    private boolean isOperator(String s) {
+        return OPERATORS.contains(s);
+    }
+
     public int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
         for (String s : tokens) {
-            if (!s.matches("^[+\\*-/]$")) {
+            if (!isOperator(s)) {
                 stack.push(Integer.parseInt(s));
             } else {
                 int r = stack.pop();

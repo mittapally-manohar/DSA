@@ -9,7 +9,7 @@ class Solution {
        for (char c : s.toCharArray()){
         if (map.containsValue(c)) {
             stack.push(c);
-        } else if (map.containsKey(c)){
+        } else{
             if (stack.isEmpty() || map.get(c) != stack.pop()) {
                 return false;
             }

@@ -2,7 +2,7 @@ class Solution {
     public int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
         for (String s : tokens) {
-            if (!s.matches("^[+\\-*/]$")){
+            if (!s.matches("^[+\\*-/]$")){
                 stack.push(Integer.parseInt(s));
             }else {
                 int r = stack.pop();

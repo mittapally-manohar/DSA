@@ -5,24 +5,22 @@ class Solution {
             queue.add(ticket);
         }
         int time = 0;
-          while (true) {
-            int ticket = queue.remove();  // remove front
-            ticket--; // one ticket bought
+        while(true) {
+            int ticket = queue.remove();
+            ticket--;
             time++;
-
-            // Check if person at front is the one we are tracking
-            if (k == 0) {
+            if (k==0) {
                 if (ticket == 0) {
-                    break; // person k is done
-                } else {
+                    break;
+                }else {
                     queue.add(ticket);
-                    k = queue.size() - 1; // moved to back
+                    k = queue.size()-1;
                 }
-            } else {
-                if (ticket > 0) {
+            }else {
+                if (ticket>0) {
                     queue.add(ticket);
                 }
-                k--; // person k moves closer to front
+                  k--;
             }
         }
         return time;

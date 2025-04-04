@@ -8,11 +8,9 @@ class MyStack {
     
     public void push(int x) {
         queue.add(x);
-        System.out.println("Before: "+queue);
         for (int i = 1; i <queue.size(); i++) {
             queue.add(queue.remove());
         }
-         System.out.println("After: "+queue);
     }
     
     public int pop() {

@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mittapally-manohar/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/mittapally-manohar/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mittapally-manohar/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/mittapally-manohar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mittapally-manohar/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mittapally-manohar/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mittapally-manohar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/mittapally-manohar/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mittapally-manohar/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |

@@ -1,32 +1,37 @@
 class FreqStack {
-    
-    private HashMap<Integer,Integer> freq;
-    private HashMap<Integer, Stack<Integer>> grpMap; 
-    int maxFreq = Integer.MIN_VALUE;
+    HashMap<Integer, Integer> freq;
+    ArrayList<ArrayList<Integer>> bucket;
+    int maxfreq;
+
     public FreqStack() {
-        freq = new HashMap<>();
-        grpMap = new HashMap<>();
+        this.freq = new HashMap<>();
+        this.bucket = new ArrayList<>();
+        bucket.add(new ArrayList<>());
+        this.maxfreq = 0;
     }
-    
+
     public void push(int val) {
-        int freqEle = freq.getOrDefault(val, 0)+1;
-        freq.put(val, freqEle);
-        if(!grpMap.containsKey(freqEle)){
-            grpMap.put(freqEle, new Stack<>());
+        int currfreq = freq.getOrDefault(val, 0) + 1;
+        freq.put(val, currfreq);
+        if (bucket.size() == currfreq) {
+            bucket.add(new ArrayList<>());
         }
-        grpMap.get(freqEle).push(val);
-        maxFreq = Math.max(maxFreq, freqEle);
+        bucket.get(currfreq).add(val);
+        maxfreq = Math.max(maxfreq, currfreq);
     }
-    
+
     public int pop() {
-        Stack<Integer> s = grpMap.get(maxFreq);
-        int x = s.pop();
-        freq.put(x, freq.get(x)-1);
-        if(s.isEmpty()){
-            grpMap.remove(maxFreq);
-            maxFreq--;
+        if (maxfreq == 0) {
+            return -1;
         }
-        return x;
+        int NoOfMaxfreqEle = bucket.get(maxfreq).size();
+        int maxfreqele = bucket.get(maxfreq).get(NoOfMaxfreqEle-1);
+        freq.put(maxfreqele,maxfreq-1);
+        bucket.get(maxfreq).remove(NoOfMaxfreqEle-1);
+        if(NoOfMaxfreqEle == 1){
+        maxfreq -= 1;
+        }
+        return maxfreqele;
     }
 }
 

@@ -1,26 +1,25 @@
 class Solution {
-    private static final Set<String> OPERATORS = Set.of("+", "-", "*", "/");
-
-    public boolean isOperator(String s) {
-        return OPERATORS.contains(s);
-    }
-
     public int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
-        for (String token : tokens) {
-            if (isOperator(token)) {
-                int right = stack.pop();
-                int left = stack.pop();
-                switch (token) {
-                    case "+" -> stack.push(left + right);
-                    case "-" -> stack.push(left - right);
-                    case "*" -> stack.push(left * right);
-                    case "/" -> stack.push(left / right);
-                }
+
+        for (String c : tokens) {
+            if (c.equals("+")) {
+                stack.push(stack.pop() + stack.pop());
+            } else if (c.equals("-")) {
+                int second = stack.pop();
+                int first = stack.pop();
+                stack.push(first - second);
+            } else if (c.equals("*")) {
+                stack.push(stack.pop() * stack.pop());
+            } else if (c.equals("/")) {
+                int second = stack.pop();
+                int first = stack.pop();
+                stack.push(first / second);
             } else {
-                stack.push(Integer.parseInt(token));
+                stack.push(Integer.parseInt(c));
             }
         }
-        return stack.pop();
+
+        return stack.peek();        
     }
 }

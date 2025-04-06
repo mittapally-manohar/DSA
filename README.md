@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mittapally-manohar/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mittapally-manohar/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0926-find-and-replace-pattern](https://github.com/mittapally-manohar/DSA/tree/master/0926-find-and-replace-pattern) |
+| [0931-maximum-frequency-stack](https://github.com/mittapally-manohar/DSA/tree/master/0931-maximum-frequency-stack) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mittapally-manohar/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mittapally-manohar/DSA/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mittapally-manohar/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mittapally-manohar/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/mittapally-manohar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/mittapally-manohar/DSA/tree/master/0355-design-twitter) |
+| [0931-maximum-frequency-stack](https://github.com/mittapally-manohar/DSA/tree/master/0931-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mittapally-manohar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mittapally-manohar/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mittapally-manohar/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0931-maximum-frequency-stack](https://github.com/mittapally-manohar/DSA/tree/master/0931-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mittapally-manohar/DSA/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/mittapally-manohar/DSA/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

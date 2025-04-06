@@ -1,21 +1,24 @@
 class MinStack {
 
     Stack<Integer> stack = new Stack<>();
-    List<Integer> list = new ArrayList<>();
+    int min = Integer.MAX_VALUE;
 
     public MinStack() {
         
     }
     
     public void push(int val) {
+        if (val <= min) {
+            stack.push(min);
+            min = val;
+        }
         stack.push(val);
-        list.add(val);
-        Collections.sort(list);
     }
     
     public void pop() {
-        list.remove(stack.pop());
-        Collections.sort(list);
+       if (stack.pop() == min) {
+        min = stack.pop();
+       }
     }
     
     public int top() {
@@ -23,7 +26,7 @@ class MinStack {
     }
     
     public int getMin() {
-        return list.get(0);
+        return min;
     }
 }
 

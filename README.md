@@ -182,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mittapally-manohar/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mittapally-manohar/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mittapally-manohar/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mittapally-manohar/DSA/tree/master/0463-island-perimeter) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mittapally-manohar/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/mittapally-manohar/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mittapally-manohar/DSA/tree/master/0322-coin-change) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mittapally-manohar/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mittapally-manohar/DSA/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mittapally-manohar/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Design

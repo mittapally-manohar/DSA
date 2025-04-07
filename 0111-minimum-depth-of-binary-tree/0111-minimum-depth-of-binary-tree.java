@@ -15,24 +15,13 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        int depth = 1;
-        Queue<TreeNode> q = new LinkedList<>();
-        if (root == null)
-            return 0;
-        q.add(root);
-        while (!q.isEmpty()) {
-            int n = q.size();
-             for (int i = 0; i < n; i++) {
-                TreeNode node = q.poll();
-                // If it's a leaf node, return current depth
-                if (node.left == null && node.right == null) {
-                    return depth;
-                }
-                if (node.left != null) q.add(node.left);
-                if (node.right != null) q.add(node.right);
-            }
-            depth++;
-        }
-        return depth;
+        if (root == null) return 0;
+        if (root.left == null) return minDepth(root.right) + 1;
+
+        // If right child is null, recurse only on left subtree
+        if (root.right == null) return minDepth(root.left) + 1;
+        int left = minDepth(root.left);
+        int right = minDepth(root.right);
+        return Math.min(left, right) + 1;
     }
 }

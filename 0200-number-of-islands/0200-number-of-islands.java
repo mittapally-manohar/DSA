@@ -1,4 +1,6 @@
 class Solution {
+
+    private static final int[][] directions = {{-1,0},{1,0},{0,-1},{0,1}};
    
     public int numIslands(char[][] grid) {
        int count = 0;
@@ -8,11 +10,28 @@ class Solution {
         for (int j = 0; j < col; j++) {
             if (grid[i][j] == '1'){
                 count++;
-                dfs(grid,i,j);
+                bfs(grid,i,j);
             }
         }
        }
        return count;
+    }
+
+    public void bfs(char[][] grid, int i, int j) {
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{i, j});
+        grid[i][j] = '0';
+        while (!q.isEmpty()){
+            int[] cell = q.poll();
+            for (int[] dir : directions) {
+                int x = cell[0] + dir[0];
+                int y = cell[1] + dir[1];
+                if (x >= 0 && x <= grid.length-1 && y >=0 && y <= grid[0].length-1 && grid[x][y]=='1'){
+                    q.offer(new int[]{x,y});
+                    grid[x][y] = '0';
+                }
+            }
+        }
     }
 
     public void dfs(char[][] grid, int i, int j) {

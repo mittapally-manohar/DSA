@@ -3,7 +3,6 @@ class Solution {
         String[] v1 = version1.split("\\.");
         String[] v2 = version2.split("\\.");
         int i = 0, j = 0;
-         System.out.println(v1.length+" "+v2.length);
         while (i < v1.length && j < v2.length) {
             int l = Integer.parseInt(v1[i]);
             int r = Integer.parseInt(v2[i]);
@@ -16,9 +15,6 @@ class Solution {
             } else {
                 return -1;
             }
-        }
-        if (i==v1.length && j == v2.length) {
-            return 0;
         }
         while (j < v2.length) {
             int num = Integer.parseInt(v2[j]);
@@ -35,9 +31,6 @@ class Solution {
             }else{
                 return 1;
             }
-        }
-        if (i==v1.length && j == v2.length) {
-            return 0;
         }
         return 0;
     }
